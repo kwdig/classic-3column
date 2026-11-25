@@ -20,6 +20,17 @@
 
 WordPress 6.4以上、PHP 7.4以上が必要です。詳細は [README-ja.txt](README-ja.txt) を参照してください。
 
+## GitHub配布ZIPのインストール検証
+
+2026年11月26日、GitHubリリースからダウンロードした `classic-3column-1.0.10.zip` を、新規のWordPress Playground検証環境（WordPress 7.1.5／PHP 8.3.36／SQLite）にインストールして確認しました。
+
+- ZIPからのインストールとテーマ1.0.10の有効化に成功。
+- WordPressのテーマ検証エラーなし。
+- 作成した記事ページとテーマCSSがHTTP 200で読み込み成功。
+- 確認した処理で、テーマに関するPHPエラーなし。
+
+この検証は上記環境でのインストール・有効化と基本的な読み込みを対象としています。
+
 ## 紹介・デモ
 
 - [テーマ紹介](https://kwdig.com/classic-3colum)
