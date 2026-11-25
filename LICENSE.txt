@@ -1,0 +1,6 @@
+classic 3column 1.0.0
+Copyright 2026 classic 3column contributors.
+All theme code is licensed under the GNU General Public License, version 2 or (at your option) any later version.
+This theme is distributed without any warranty, including merchantability or fitness for a particular purpose.
+Full license: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+No third-party images, fonts, or JavaScript libraries are bundled.

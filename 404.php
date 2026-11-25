@@ -1,0 +1,1 @@
+<?php defined('ABSPATH') || exit;get_header(); ?><h1>ページが見つかりません</h1><p>移動または削除された可能性があります。キーワードから記事を探せます。</p><?php get_search_form(); ?><p><a href="<?php echo esc_url(home_url('/')); ?>">トップページへ戻る</a></p><?php get_footer(); ?>
