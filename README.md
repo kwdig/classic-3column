@@ -2,7 +2,25 @@
 
 読みやすさを重視した、汎用3カラムのWordPressテーマです。現在の配布版は **1.0.10** です。
 
-![classic 3column](screenshot.png)
+## スクリーンショット
+
+バージョン1.0.10の[公開デモ](https://kwdig.com/classic-3colum/demo/)を2026年11月26日に撮影しました。スマホ表示はブラウザーの画面幅を390pxに設定した表示例です。
+
+### PC表示（幅1440px）
+
+左ナビ・本文・右サイドバーの3カラムで表示します。
+
+![PCの3カラム表示](docs/images/desktop.png)
+
+### スマホ表示（幅390px）
+
+本文を中心に表示し、左ナビはメニューボタンから開閉できます。
+
+<img src="docs/images/mobile.png" alt="スマホの通常表示" width="390">
+
+### スマホのメニュー
+
+<img src="docs/images/mobile-menu.png" alt="スマホで左ナビを開いた表示" width="390">
 
 ## 特徴
 
